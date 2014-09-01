@@ -12,39 +12,41 @@ _The following are my personal notes from the [SES Conference 2013](http://sesco
 
 * * *
 
-## Content Marketing - Earn Visibility and Links Through Killer Content Strategy - [@lauralippay](http://twitter.com/lauralippay)
+Content Marketing - Earn Visibility and Links Through Killer Content Strategy - [@lauralippay](http://twitter.com/lauralippay)
 
 *   Content marketing is marketing, link building is manipulation.
 
 *   SEO nowadays means you want to be popular
 
+<!-- more -->
+
 *   How do you get the attention of… Vancouver
 
     *   House Trip
 
-            *   Audience: Hip folks
+        *   Audience: Hip folks
         *   Airbnb of canada
 
-                    *   learned through research that vancouver likes being “green”
+            *   learned through research that vancouver likes being “green”
             *   search results for “green” cities show lists of greenest cities
             *   find out where hip folks are reading online
             *   http://seogadget.com/really-targeted-outreach/
             *   Don’t spam publishers, collaborate with publishers
 
-                            *   Seek out publishers
+                *   Seek out publishers
                 *   Give them some ideas
                 *   Use their feedback
                 *   Get creative with content and photos
 
-                        *   Publish: Created infographic of the world’s greenest cities
+                *   Publish: Created infographic of the world’s greenest cities
 
-                            *   went viral in vancouver
+                    *   went viral in vancouver
                 *   tweeted by mayor of vancouver, bands, etc
                 *   serious links were built using creative ideas and info
 
 *   Good Content Marketing
 
-        1.  Know target and biz goals
+    1.  Know target and biz goals
     2.  Where are they online? What evokes emotion?
     3.  Craft Ideas
     4.  Get Creative
@@ -58,7 +60,7 @@ _The following are my personal notes from the [SES Conference 2013](http://sesco
 
 * * *
 
-## SEO: The big picture, [@sharithurow](http://twitter.com/sharithurow) [search-usability.com](http://search-usability.com)
+SEO: The big picture, [@sharithurow](http://twitter.com/sharithurow) [search-usability.com](http://search-usability.com)
 
 *   Problem: flavor-of-the-month SEO
 
@@ -67,7 +69,7 @@ _The following are my personal notes from the [SES Conference 2013](http://sesco
 
 *   Building blocks of SEO
 
-        1.  Keywords and Labels: Aboutness, what is this about
+    1.  Keywords and Labels: Aboutness, what is this about
     2.  Architecture and design: Providing infrastructure and information scent, going from one website to another
     3.  Link development &amp; Social: Validation and credibility, author rank and scholar rank
     4.  Searcher goals: the searcher is the user.

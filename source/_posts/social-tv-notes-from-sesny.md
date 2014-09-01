@@ -12,7 +12,7 @@ _The following are my personal notes from the [SES Conference 2013](http://sesco
 
 * * *
 
-# Keynote - Social TV, [@McProulx](http://twitter.com/McProulx "@McProulx")
+Keynote - Social TV, [@McProulx](http://twitter.com/McProulx "@McProulx")
 
 ## TV is a major catalyst for search
 
@@ -22,6 +22,8 @@ _The following are my personal notes from the [SES Conference 2013](http://sesco
 
 ## Twitter TV experience, instant feedback to live tv
 
+<!-- more -->
+
 ## What is TV in 2013?
 
 1.  Television
@@ -30,13 +32,13 @@ _The following are my personal notes from the [SES Conference 2013](http://sesco
     *   original content bypassing TV networks - Netflix, hulu, etc
     *   40% of tablet or smartphone owners are using their device while watching TV
 
-            *   zeebox, 2nd screen app, adds live content and info while you watch
+        *   zeebox, 2nd screen app, adds live content and info while you watch
 
 2.  Belief + Behavior
 
     *   TV is dying
 
-            *   Not true, more people are watching tv than ever
+        *   Not true, more people are watching tv than ever
 
         *   Most people don’t watch TV live (DVR)
 
@@ -47,6 +49,7 @@ _The following are my personal notes from the [SES Conference 2013](http://sesco
         *   Most people watch other devices while watching TV
 
             *   77% of people on devices while watching TV
+            
         *   78% of those are looking at unrelated content
 
         *   Social Media helps ratings

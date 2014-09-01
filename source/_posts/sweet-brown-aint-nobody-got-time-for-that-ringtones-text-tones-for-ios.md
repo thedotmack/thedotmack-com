@@ -20,7 +20,7 @@ Files included:
 *   i didnt grab no shoes or nothin jesus.m4r
 *   i got bronchitis.m4r oh lorr jesus iss a fire.m4r
 
-Download link: [aint-nobody-got-time-for-that-ringtones](http://www.thedotmack.com/wp-content/uploads/2013/01/aint-nobody-got-time-for-that-ringtones.zip)
+Download link: [aint-nobody-got-time-for-that-ringtones](/downloads/aint-nobody-got-time-for-that-ringtones.zip)
 
 Original Video: 
 

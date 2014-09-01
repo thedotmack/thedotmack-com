@@ -85,4 +85,7 @@ exclude_generator:
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: rsync
+  host: thedotmack.com
+  user: thedotmack
+  root: /srv/www/thedotmack.com/public_html

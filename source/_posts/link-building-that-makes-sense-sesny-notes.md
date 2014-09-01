@@ -13,32 +13,33 @@ _The following are my personal notes from the [SES Conference 2013](http://sesco
 
 * * *
 
-# Link building that makes sense, by [LinkBuildingJon](https://twitter.com/linkbuildingjon) of [Page One Power](http://pageonepower.com/)
+Link building that makes sense, by [LinkBuildingJon](https://twitter.com/linkbuildingjon) of [Page One Power](http://pageonepower.com/)
 
 ## SEO is Simple
 
 *   3 Elements of SEO
 
-        1.  Technical
+    1.  Technical
 
-            *   Can the page you want to rank be found in google?
+        *   Can the page you want to rank be found in google?
         *   Does it load quickly?
+<!-- more -->
 
-        2.  Content
+    2.  Content
 
-            *   Does your page title contain your keyword?
+        *   Does your page title contain your keyword?
         *   are there 250 words about the keyword?
         *   are there pictures?
 
-        3.  Links
+    3.  Links
 
-            *   Are there links going to your page?
+        *   Are there links going to your page?
         *   The page with the most, best links wins!
-*   Remember, google ranks web pages, not web sites.
+            *   Remember, google ranks web pages, not web sites.
 
     *   the page on your site ranks for your keyword, not your whole site
 
-## Link building =
+## Link building 
 
 *   Find target site
 *   Build links.
@@ -57,8 +58,7 @@ _The following are my personal notes from the [SES Conference 2013](http://sesco
     *   White hat link building follows relevancy, not pagerank
     *   Getting a link from a high PR page used to always be valuable, today its more the relevance of the content
     *   Relevancy Tree (create with team)
-
-            *   write down all the terms that relate to your market
+        *   write down all the terms that relate to your market
         *   circle all the words that have a group, community, or content based around it
         *   organize from most related to least related
 
@@ -131,7 +131,7 @@ _The following are my personal notes from the [SES Conference 2013](http://sesco
     *   establishes your authority
     *   becomes the platform for content marketing, social media engagement and timely blog posts
 
-                1.  Decide who your audience is
+        1.  Decide who your audience is
         2.  Determine categories
         3.  Get keyword lists (make keyword lists)
         4.  Brainstorm blog post titles from categories and keyword lists
@@ -154,7 +154,7 @@ _The following are my personal notes from the [SES Conference 2013](http://sesco
 
     *   Find your target sites
 
-            *   use relevancy tree
+        *   use relevancy tree
         *   accept posts on your blog
 
         *   Email or call your blogger, offer to contribute

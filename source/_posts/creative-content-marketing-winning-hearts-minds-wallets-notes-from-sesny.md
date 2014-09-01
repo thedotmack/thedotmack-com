@@ -7,18 +7,19 @@ categories:
 date: 2013-03-28 08:33:41
 tags:
 ---
-
-# Creative Content Marketing - Winning Hearts, Minds &amp; Wallets, [@LeeOdden](http://twitter.com/LeeOdden)
+Creative Content Marketing - Winning Hearts, Minds &amp; Wallets, [@LeeOdden](http://twitter.com/LeeOdden)
 
 ## Content Marketing Myths
 
-1.  Content marketing simply means creating more content
+1. Content marketing simply means creating more content
 2.  quality content is not sustainable
 3.  a content object has only one life
 
+<!-- more -->
+
 ## Content Marketing Maturity Model
 
-1.  Stand
+1. Stand
 
     *   Curiosity
     *   Not investing resources
@@ -69,7 +70,7 @@ tags:
 
     *   Tomfishburne.com, marketoonist
 
-            *   can use for free in your blog if you link back.
+        *   can use for free in your blog if you link back.
         *   clever way for building syndication
 
         *   Tablespoon.com, general mills
@@ -80,7 +81,7 @@ tags:
         *   Promoting content on Pinterest, youtube, twitter, etc
         *   Widgets on site that highlight most interactive content
 
-                    *   most commented
+            *   most commented
             *   highest rated
             *   most read
 
@@ -100,7 +101,7 @@ tags:
 
 ## Optimize 360 Model: Create content that has the following
 
-1.  Attract: don’t push
+1. Attract: don’t push
 2.  Engage: optimize for experience
 3.  Convert: optimize conversion, add tasks
 
@@ -116,7 +117,7 @@ tags:
 
 ## Sales Cycle
 
-1.  Awareness
+1. Awareness
 2.  Interest
 3.  Consideration
 4.  Purchase
@@ -127,7 +128,7 @@ tags:
 
 ## How to come up with creative ideas
 
-1.  Visualize Trends
+1. Visualize Trends
 
     *   semrush.com // Export CSV, bring in to wordle to visualize
     *   Google keywords // Export CSV, wordle
@@ -169,42 +170,31 @@ tags:
 
 *   4 Content types for Brand Storytelling
 
-        1.  Evergreen Content
-
-            *   Timeless content, awesome for SEO
+    1. Evergreen Content
+        *   Timeless content, awesome for SEO
         *   Always relevant, lives in a relevant way for a long time
         *   Lots of shares, lots of traffic
-
-        2.  Repurposed
-
-            *   Modular content
+    2.  Repurposed
+        *   Modular content
         *   Take key concepts and bring them across different channels
-
-                    *   Youtube
+            *   Youtube
             *   Blog
             *   Flickr
-            *   Etc
-
-                *   Post a video to youtube, then embed in your blog, take screen shots of the videos and put it on flickr, transcribe the text from video and make a blog post, scribd, slideshare, facebook updates, tweets etc.
-
-        3.  Curated
-
-            *   Being the best answer for something by aggregating resources
+            *   Ex. Post a video to youtube, then embed in your blog, take screen shots of the videos and put it on flickr, transcribe the text from video and make a blog post, scribd, slideshare, facebook updates, tweets etc.
+    3.  Curated
+        *   Being the best answer for something by aggregating resources
         *   Adding short commentary
-
-        4.  Co-Created
-
-            *   Co-created content on Google Docs
-        *   Co-created E-Books
-
-                    *   Tapped in to thought leaders
-            *   lots of promotion
+    4.  Co-Created
+        *   Co-created content on Google Docs
+    *   Co-created E-Books
+        *   Tapped in to thought leaders
+        *   lots of promotion
 
 ## Content Plan Template http://tprk.us/keyedcal
 
 ## 29 Secrets About Content Marketing
 
-1.  Attract
+1. Attract
 
     *   Social Networks
     *   Direct social messages

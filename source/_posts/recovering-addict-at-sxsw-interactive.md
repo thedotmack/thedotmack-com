@@ -15,6 +15,8 @@ The [SXSW 2010 Interactive Festival](http://sxsw.com) was my kind of party. I'm 
 
 So what did I learn? First and foremost, I learned that I HAVE TO TWEET. I am a late adopter of Twitter, yet my colleagues seem to think there's something behind this Twizzler thing (see [Arnie Wexler's Blog](http://recoveringgambler.com) for clarification).
 
+<!-- more -->
+
 I also learned that I have to be public about my opinions on technology and the world in order to get ahead. Hence this blog.
 
 Without further ado, here are my opinions (continue at your own risk):

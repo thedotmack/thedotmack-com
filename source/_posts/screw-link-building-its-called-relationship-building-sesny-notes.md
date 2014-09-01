@@ -5,8 +5,7 @@ categories:
 date: 2013-03-27 13:56:46
 tags:
 ---
-
-# Screw Link Building - Its called Relationship Building
+Screw Link Building - Its called Relationship Building
 
 _Jo Turnbull_
 
@@ -15,6 +14,8 @@ _Jo Turnbull_
 1.  Search London
 2.  [SEO.jo](http://SEO.jo) blogs
 3.  Clients
+
+<!-- more -->
 
 ## Why build a relationship vs. a link
 
@@ -43,8 +44,7 @@ _Jo Turnbull_
     *   Changed name to “Search London” simpler and more effective
     *   doubled in size from relationship building
     *   How did I do it?
-
-                1.  Strong domain, meetup.com attracts members
+        1.  Strong domain, meetup.com attracts members
         2.  Got Good Speakers
         3.  Guest post
         4.  Interact with people at event
@@ -53,20 +53,17 @@ _Jo Turnbull_
         7.  Started using #SearchLondon hashtag on twitter
         8.  Film presentations for later
     *   Results
-
-            *   New search London website (beta)
+        *   New search London website (beta)
         *   Google’s Pierre Far asked to speak at meetup
         *   First day time event - Google Campus March 20th
-
         *   Could I have built this from links?
-
             *   Invited to guest post
-        *   client confidence
-        *   personal brand has increased in industry
-        *   people want to sponsor the event
-        *   latest conference in front of entrepreneur
-        *   More links to SEO Jo Blogs and referrals
-        *   Cost: $60 every 6 months to host the meetups on meetup.com
+            *   client confidence
+            *   personal brand has increased in industry
+            *   people want to sponsor the event
+            *   latest conference in front of entrepreneur
+            *   More links to SEO Jo Blogs and referrals
+            *   Cost: $60 every 6 months to host the meetups on meetup.com
 
 *   SEO.jo blogs
 
@@ -75,12 +72,9 @@ _Jo Turnbull_
     *   Attended 2 Brighton SEOs
     *   SMX London and SMX NYC
     *   How to get started?
-
-            *   Just do it.
-
+        *   Just do it.
         *   Be honest and approachable
-
-            *   Don’t be afraid of using your contacts
+        *   Don’t be afraid of using your contacts
         *   find a good blog in your field
         *   use rapportive to find email address
         *   use follerwonk
@@ -90,7 +84,6 @@ _Jo Turnbull_
         *   short version of the email (no one likes reading long emails)
 
         *   Attend relevant events
-
             *   Many events e.g.. meetup.com, trade shows, new product launches
         *   Travel bloggers / food bloggers / mommy bloggers
         *   Approach with interest in the event
@@ -98,31 +91,25 @@ _Jo Turnbull_
         *   Speak to the press
 
         *   Do something different
-
             *   make sure you stand out
 
         *   Results
-
             *   regular blogger on state of search - euro best search blog 2012
         *   post on Brighton SEO was top read seo blog of the year
 
 *   Client case studies
 
     *   Holiday apartments in Europe
-
-            *   client has a blog that hasn’t been updated
+        *   client has a blog that hasn’t been updated
         *   sole KPI was to increase in rankings
         *   only off site work was allowed
         *   What can i do is different?
-
-                    *   Engaged in blogger outreach
+            *   Engaged in blogger outreach
             *   reciprocal blogs
             *   relationship with the bloggers
             *   good blogs via meetups / search events
             *   updated the client blog weekly with photos of new cities
-
                 *   Results
-
                     *   increase in number of referring sites
             *   more natural link profile
             *   increased rankings for key terms
@@ -131,12 +118,11 @@ _Jo Turnbull_
             *   cost $300
 
         *   Retail client
-
             *   moving to new location in a new shopping mall
-        *   set up launch party
-        *   asked people to write their info and put it in a box
-        *   prize draw, doubled sales for day at the store
-        *   cost $1000
+            *   set up launch party
+            *   asked people to write their info and put it in a box
+            *   prize draw, doubled sales for day at the store
+            *   cost $1000
 
 ## Building relationships takes effort
 
@@ -232,40 +218,30 @@ _Jo Turnbull_
 *   Guest blogging
 
     *   Searching for sources the old way
-
-            *   google the topic
-
+        *   google the topic
         *   Who are the people behind the website?
-
-            *   you are building relationships with people, not the website
+        *   you are building relationships with people, not the website
         *   learn about the people
-
         *   New way to find sources
-
             *   go on linkedin and search
-        *   search for employees from a company
-        *   search twitter
-        *   Follerwonk, SEO as a pro
-        *   FIND PEOPLE FIRST
-        *   Pinterest to find people and content that’s being shared
-        *   Other money keywords
+            *   search for employees from a company
+            *   search twitter
+            *   Follerwonk, SEO as a pro
+            *   FIND PEOPLE FIRST
+            *   Pinterest to find people and content that’s being shared
+            *   Other money keywords
+                *   blogger
+                *   blog owner
+                *   marketer
+                *   etc
 
-                    *   blogger
-            *   blog owner
-            *   marketer
-            *   etc
-
-                *   work with what you have
-
-                    *   analyze who follows you (follerwonk)
-
-                            *   analyze THEIR followers
-                *   look for writers
-                *   they are already engaged with you
-
-                        *   do this with your competitors
-
-                *   Don’t forget about the mass media
+            *   work with what you have
+                *   analyze who follows you (follerwonk)
+                *   analyze THEIR followers
+            *   look for writers
+            *   they are already engaged with you
+                *   do this with your competitors
+            *   Don’t forget about the mass media
 
 *   How do I contact people?
 
@@ -274,46 +250,32 @@ _Jo Turnbull_
     *   interact with them, like, tweet, +1
     *   don’t creep people out
     *   on twitter instead of
-
-            *   hey I love your site can I guest post?
+        *   hey I love your site can I guest post?
         *   do this: start a conversation with someone, a real person
-
         *   Call people
-    *   if you must email
-
+        *   if you must email
             *   make it noticeable
-        *   make it short, break things up in short digestible paragraphs
-        *   use the right address, at the domain name
-        *   fave subject line: “Hi NAME”
-
+            *   make it short, break things up in short digestible paragraphs
+            *   use the right address, at the domain name
+            *   fave subject line: “Hi NAME”
         *   Talk to people like they’re your friends
     *   Show you care, and people will care back
     *   Ask them questions
-
-            *   people like talking about themselves
+        *   people like talking about themselves
         *   if you ask, they will answer
-
         *   Give people things
-
             *   things related to your industry
-
         *   Be a resource
-
             *   for other in industry
         *   students
-
         *   Lend a hand
-
-            *   do social good
+        *   do social good
         *   give help with their site or whatever
         *   Speak at student organizations
-
-                    *   links from .EDU address (HUGE)
-
+            *   links from .EDU address (HUGE)
         *   Have a personality
     *   This is real company stuff @wilreynolds
-
-            *   Real companies build relationships
+        *   Real companies build relationships
 
 ## Maintain the relationship!
 

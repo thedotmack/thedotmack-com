@@ -5,15 +5,11 @@ categories:
 date: 2011-01-06 14:07:10
 tags:
 ---
-
-defaults write com.twitter.twitter-mac ScrollingMakesKeyAndOrdersFront -bool true
-
- defaults write com.twitter.twitter-mac UserTimelineDerepeater -bool true
-
- defaults write com.twitter.twitter-mac TypeAnywhereToTweet -bool true
-
- defaults write com.twitter.twitter-mac HideInBackground -bool true
-
- defaults write com.twitter.twitter-mac ESCClosesComposeWindow -bool true
-
- defaults write com.twitter.twitter-mac NormalComposeWindowLevel -bool false
+``` bash
+$ defaults write com.twitter.twitter-mac ScrollingMakesKeyAndOrdersFront -bool true
+$ defaults write com.twitter.twitter-mac UserTimelineDerepeater -bool true
+$ defaults write com.twitter.twitter-mac TypeAnywhereToTweet -bool true
+$ defaults write com.twitter.twitter-mac HideInBackground -bool true
+$ defaults write com.twitter.twitter-mac ESCClosesComposeWindow -bool true
+$ defaults write com.twitter.twitter-mac NormalComposeWindowLevel -bool false
+```

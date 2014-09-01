@@ -14,6 +14,7 @@ tags:
 *   Intersection of SMS and Status Updates
 *   85% primary use on the phone
 *   Mobile users engage more on twitter
+<!-- more -->
 
     *   66% more likely to retweet
     *   44% more likely to click on links
@@ -49,11 +50,12 @@ tags:
     *   This guy tweeted about @Nike, nike responded.
     *   AMEX: Tweet for savings, buy with a tweet (special hashtag)
 
-            *   sync.americanexpress.com/twitter
+        *   sync.americanexpress.com/twitter
 
-        *   Bonobos Pants, tweets to unlock lower prices
+    *   Bonobos Pants, tweets to unlock lower prices
 
-            *   $65 pants for 65 retweets, 1200% ROI
+        *   $65 pants for 65 retweets, 1200% ROI
 
-        *   Big Bird tweet during debate when Romney said he would get rid of big bird had a huge response, great awareness for PBS
+    *   Big Bird tweet during debate when Romney said he would get rid of big bird had a huge response, great awareness for PBS
+    
     *   Follow [@TwitterAds](http://twitter.com/TwitterAds)
