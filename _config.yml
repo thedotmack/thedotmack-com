@@ -8,7 +8,7 @@ subtitle: "Web Design & Development"
 description: "Lots of things about Bootstrap, Grunt, LESS, and so forth."
 author: Alex Newman
 email: thedotmack@gmail.com
-language:
+language: EN
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -84,8 +84,6 @@ exclude_generator:
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
-deploy:
-  type: rsync
-  host: thedotmack.com
-  user: thedotmack
-  root: /srv/www/thedotmack.com/public_html
+deploy: 
+  type: git
+  repo: git@github.com:thedotmack/thedotmack.github.io.git
