@@ -3,6 +3,7 @@ id: 60
 categories:
   - CSS
   - Nerdiness
+  - Wordpress
 date: 2011-07-19 11:21:13
 tags:
 ---
